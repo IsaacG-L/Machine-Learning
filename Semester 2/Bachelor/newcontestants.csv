@@ -1,0 +1,461 @@
+Name,Age,Occupation,Height,Hometown,Ethnicity,Elimination Week,Season
+Trista Rehn,30,Physical Therapist,5'3",Colo. Springs CO,Caucasian,2,1
+Amanda Marsh,23,Public Relations,5'6",Tampa FL,Caucasian,0,1
+Angela,26,Marketing,5'8",Houston TX,Caucasian,3,1
+Barbara,25,Teacher,5'5",Dallas TX,Caucasian,4,1
+Debra,28,Model,5'9",Miami FL,Caucasian,5,1
+Emily,25,Student,5'4",Myrtle Beach SC,Caucasian,6,1
+Gina,24,Sales,5'5",Los Angeles CA,Caucasian,7,1
+Heather,27,Actress,5'6",Orlando FL,Caucasian,8,1
+Jacqueline,24,Marketing,5'6",Pittsburgh PA,Caucasian,9,1
+Jill,25,Interior Designer,5'7",Lake Bluff IL,Caucasian,10,1
+Karen,24,Executive Assistant,5'5",New York NY,Caucasian,11,1
+Lindsey,25,Teacher,5'4",Boston MA,Caucasian,12,1
+Megan,26,Personal Assistant,5'6",Los Angeles CA,Caucasian,13,1
+Monica,23,Student,5'8",Los Angeles CA,Caucasian,14,1
+Rachelle,25,Marketing Manager,5'7",Tampa FL,Caucasian,15,1
+Shannon,25,Teacher,5'5",Tucson AZ,Caucasian,16,1
+Susan,25,Executive Recruiter,5'6",Nashville TN,Caucasian,17,1
+Tara,23,Model,5'9",Dallas TX,Caucasian,18,1
+Helene Eksterowicz,25,Public Relations,5'7",Cherry Hill NJ,Caucasian,10,2
+Sarah Bicknell,26,Real Estate,5'5",Nashville TN,Caucasian,0,2
+Angela,25,Marketing,5'8",Austin TX,Caucasian,8,2
+Beverly,27,Event Planner,5'6",Chicago IL,Caucasian,6,2
+Brooke,23,Interior Designer,5'9",San Francisco CA,Caucasian,7,2
+Catherine,26,Waitress,5'6",Kennebunkport ME,Caucasian,5,2
+Charlene,24,Model,5'8",Boston MA,Caucasian,4,2
+Emily,22,Student,5'4",North Carolina,Caucasian,3,2
+Gina,28,Accountant,5'5",St. Louis MO,Caucasian,2,2
+Heather,25,Artist,5'5",Omaha NE,Caucasian,9,2
+Jennifer,26,Marketing Manager,5'7",San Diego CA,Caucasian,1,2
+Jenna,24,Actress,5'6",Los Angeles CA,Caucasian,11,2
+Kathy,27,Account Manager,5'8",New York NY,Caucasian,12,2
+Kristin,25,Journalist,5'9",Miami FL,Caucasian,13,2
+Lindsay,26,Fashion Consultant,5'6",Chicago IL,Caucasian,14,2
+Megan,24,Teacher,5'4",Ohio,Caucasian,15,2
+Melanie,23,Graduate Student,5'6",Delaware,Caucasian,16,2
+Shannon,25,Model,5'7",New Jersey,Caucasian,17,2
+Amanda Marsh,23,Student,5'6",Los Angeles CA,Caucasian,2,3
+Brandy,25,Teacher,5'7",San Diego CA,Caucasian,3,3
+Christy,24,Marketing,5'8",New York NY,Caucasian,4,3
+Corinne,23,Interior Designer,5'6",Miami FL,Caucasian,5,3
+Katie,24,Sales,5'7",St. Louis MO,Caucasian,6,3
+Lori,27,Marketing Executive,5'9",Philadelphia PA,Caucasian,7,3
+Megan,26,Public Relations,5'6",Charleston SC,Caucasian,8,3
+Renee,25,Teacher,5'5",Tucson AZ,Caucasian,9,3
+Shannon,25,Student,5'6",Lakewood CO,Caucasian,10,3
+Tammy,28,Sales,5'9",Pittsburgh PA,Caucasian,11,3
+Trish,24,Model,5'8",Tampa FL,Caucasian,12,3
+Wendy,25,Teacher,5'6",Chicago IL,Caucasian,13,3
+Victoria,25,Real Estate Agent,5'7",Beverly Hills CA,Caucasian,14,3
+Trista Rehn,30,Physical Therapist,5'3",Colo. Springs CO,Caucasian,0,4
+Charity,24,Marketing Executive,5'6",Chicago IL,Caucasian,2,4
+Kimberly,25,Public Relations,5'7",North Miami FL,Caucasian,3,4
+Sarah,23,Sales,5'7",Phoenix AZ,Caucasian,4,4
+Amanda,24,Teacher,5'6",Tampa FL,Caucasian,5,4
+Julie,27,Executive Assistant,5'5",Chicago IL,Caucasian,6,4
+Shannon,25,Teacher,5'4",Portland OR,Caucasian,7,4
+Lindsey,25,Teacher,5'8",Indianapolis IN,Caucasian,8,4
+Jill,23,Executive Assistant,5'6",Dallas TX,Caucasian,9,4
+Kristen,25,Graduate Student,5'5",Chicago IL,Caucasian,10,4
+Karen,24,Teacher,5'4",Las Vegas NV,Caucasian,11,4
+Monica,26,Insurance Sales,5'6",Los Angeles CA,Caucasian,12,4
+Rachel,25,Social Worker,5'8",Tampa FL,Caucasian,13,4
+Jessica Bowlin,23,Student,5'6",Anchorage AK,Caucasian,0,5
+Erica,25,Model,5'7",Chicago IL,Caucasian,4,5
+Kimberly,25,Public Relations,5'7",Dallas TX,Caucasian,3,5
+Tessa,25,Teacher,5'7",Pittsburgh PA,Caucasian,5,5
+Sarah Brice,24,Sales,5'6",Austin TX,Caucasian,0,5
+Lindsey,24,Event Coordinator,5'7",Phoenix AZ,Caucasian,6,5
+Brittany,25,Public Relations,5'7",Dallas TX,Caucasian,7,5
+Jessica,25,Model,5'8",Los Angeles CA,Caucasian,8,5
+Trish,24,Marketing Executive,5'8",Miami FL,Caucasian,9,5
+Renee,26,Social Worker,5'5",Chicago IL,Caucasian,10,5
+Christina,25,Interior Designer,5'7",New York NY,Caucasian,11,5
+Shannon,25,Real Estate,5'7",Denver CO,Caucasian,12,5
+Kimberly,26,Teacher,5'8",Indianapolis IN,Caucasian,13,5
+Moana,28,Real Estate Agent,5'6",San Diego CA,Caucasian,2,6
+Sarah,27,Sales,5'7",Cincinnati OH,Caucasian,3,6
+Alexis,25,Sales,5'8",Los Angeles CA,Caucasian,4,6
+Nancy,26,Waitress,5'5",Chicago IL,Caucasian,5,6
+Holly,26,Event Coordinator,5'7",New York NY,Caucasian,6,6
+Nancy,25,Advertising Executive,5'7",Chicago IL,Caucasian,7,6
+Tessa,25,Teacher,5'8",Pittsburgh PA,Caucasian,8,6
+Kimberly,24,Teacher,5'6",Indianapolis IN,Caucasian,9,6
+Lindsey,25,Teacher,5'7",Phoenix AZ,Caucasian,10,6
+Amanda,26,Marketing,5'6",Tampa FL,Caucasian,11,6
+Brandy,25,Model,5'9",San Francisco CA,Caucasian,12,6
+Keri,25,Marketing,5'8",Dallas TX,Caucasian,13,6
+Lisa,28,Teacher,5'7",Detroit MI,Caucasian,14,6
+Megan,25,Medical Sales,5'8",Los Angeles CA,Caucasian,15,6
+Erin,26,Teacher,5'6",California,Caucasian,16,6
+Bevin,29,Public Relations,5'8",New York NY,Caucasian,17,6
+Allison,24,Personal Trainer,5'7",Portland OR,Caucasian,18,6
+Courtney,25,Massage Therapist,5'6",San Diego CA,Caucasian,19,6
+Jennifer,25,Teacher,5'6",Kansas City MO,Caucasian,20,6
+Stephanie,26,Pharmaceutical Sales,5'7",Raleigh NC,Caucasian,21,6
+Samantha,26,Public Relations,5'7",Chicago IL,Caucasian,22,6
+Heather,25,Waitress,5'8",Tucson AZ,Caucasian,23,6
+Lindsay,25,Advertising Executive,5'6",Vancouver WA,Caucasian,24,6
+Kristin,27,Human Resources,5'7",Denver CO,Caucasian,25,6
+Trish,26,Interior Designer,5'6",Birmingham AL,Caucasian,0,7
+Tessa,25,Teacher,5'7",Pittsburgh PA,Caucasian,2,7
+Danielle,25,Real Estate Agent,5'7",Columbus OH,Caucasian,3,7
+Erin,27,Public Relations,5'8",San Diego CA,Caucasian,4,7
+Heather,25,Waitress,5'7",Tucson AZ,Caucasian,5,7
+Kristen,25,Teacher,5'6",Vancouver WA,Caucasian,6,7
+Courtney,25,Massage Therapist,5'6",San Diego CA,Caucasian,7,7
+Stephanie,26,Public Relations,5'7",Raleigh NC,Caucasian,8,7
+Bevin,29,Public Relations,5'8",New York NY,Caucasian,9,7
+Megan,25,Medical Sales,5'8",Los Angeles CA,Caucasian,10,7
+Jessica,25,Personal Trainer,5'6",Portland OR,Caucasian,11,7
+Brandy,26,Model,5'9",San Francisco CA,Caucasian,12,7
+Jennifer,25,Teacher,5'6",Kansas City MO,Caucasian,13,7
+Kimberly,24,Teacher,5'6",Indianapolis IN,Caucasian,14,7
+Sarah,25,Sales,5'7",Cincinnati OH,Caucasian,15,7
+Lindsay,24,Advertising Executive,5'7",Phoenix AZ,Caucasian,16,7
+Moana,28,Real Estate Agent,5'6",San Diego CA,Caucasian,17,7
+Samantha,26,Public Relations,5'7",Chicago IL,Caucasian,18,7
+Heather,24,Waitress,5'8",Tucson AZ,Caucasian,19,7
+Kimberly,25,Public Relations,5'7",Chicago IL,Caucasian,20,7
+Sarah,24,Student,5'5",Denver CO,Caucasian,21,7
+Tiffany,26,Realtor,5'6",Philadelphia PA,Caucasian,22,7
+Renee,27,Social Worker,5'5",Chicago IL,Caucasian,23,7
+Allison,24,Personal Trainer,5'7",Portland OR,Caucasian,24,7
+Danielle,26,Teacher,5'6",Los Angeles CA,Caucasian,25,7
+Jen,24,Interior Designer,5'6",Omaha NE,Caucasian,0,8
+Kristin,27,Real Estate Agent,5'8",Dallas TX,Caucasian,2,8
+Tessa,25,Teacher,5'7",Pittsburgh PA,Caucasian,3,8
+Sarah,24,Student,5'6",Denver CO,Caucasian,4,8
+Tiffany,26,Realtor,5'6",Philadelphia PA,Caucasian,5,8
+Danielle,26,Teacher,5'6",Los Angeles CA,Caucasian,6,8
+Kimberly,25,Public Relations,5'7",Chicago IL,Caucasian,7,8
+Heather,25,Waitress,5'7",Tucson AZ,Caucasian,8,8
+Bevin,29,Public Relations,5'8",New York NY,Caucasian,9,8
+Samantha,26,Public Relations,5'7",Chicago IL,Caucasian,10,8
+Sarah,25,Sales,5'7",Cincinnati OH,Caucasian,11,8
+Moana,28,Real Estate Agent,5'6",San Diego CA,Caucasian,12,8
+Lindsay,24,Advertising Executive,5'7",Phoenix AZ,Caucasian,13,8
+Jessica,25,Personal Trainer,5'6",Portland OR,Caucasian,14,8
+Brandy,26,Model,5'9",San Francisco CA,Caucasian,15,8
+Allison,24,Personal Trainer,5'7",Portland OR,Caucasian,16,8
+Courtney,25,Massage Therapist,5'6",San Diego CA,Caucasian,17,8
+Kimberly,24,Teacher,5'6",Indianapolis IN,Caucasian,18,8
+Jennifer,25,Teacher,5'6",Kansas City MO,Caucasian,19,8
+Megan,25,Medical Sales,5'8",Los Angeles CA,Caucasian,20,8
+Bevin,27,Public Relations,5'8",New York NY,Caucasian,21,8
+Stephanie,26,Public Relations,5'7",Raleigh NC,Caucasian,22,8
+Tessa,25,Teacher,5'7",Pittsburgh PA,Caucasian,23,8
+Courtney,26,Interior Designer,5'6",Chicago IL,Caucasian,24,8
+Renee,27,Social Worker,5'5",Chicago IL,Caucasian,25,8
+Jennifer,26,Marketing,5'8",California,Caucasian,1,9
+Tara,23,Marketing,5'6",California,Caucasian,2,9
+Erica,27,Medical Sales,5'7",North Carolina,Caucasian,3,9
+Kristy,25,Publicist,5'9",Illinois,Caucasian,4,9
+Bianca,25,Event Planner,5'6",Texas,Hispanic,5,9
+Jessica,25,Teacher,5'7",Ohio,Caucasian,6,9
+Sarah,23,Student,5'5",California,Caucasian,7,9
+Kirsten,24,Model,5'9",Florida,Caucasian,8,9
+Kristin,24,Interior Designer,5'6",California,Caucasian,9,9
+Ashley,24,Advertising,5'8",North Carolina,Caucasian,10,9
+Megan,23,Medical Sales,5'7",Louisiana,Caucasian,11,9
+Kathy,24,Real Estate,5'7",Georgia,Caucasian,12,9
+Shannon,25,Teacher,5'6",Ohio,Caucasian,13,9
+Kelly,28,Hair Stylist,5'5",New Jersey,Caucasian,14,9
+Jen,23,Medical Sales,5'7",Alabama,Caucasian,15,9
+Kimberly,26,Travel Consultant,5'6",Texas,Caucasian,16,9
+Katie,24,Photographer,5'8",Michigan,Caucasian,17,9
+Marla,24,Student,5'7",Minnesota,Caucasian,18,9
+Mary,25,Marketing,5'7",Michigan,Caucasian,19,9
+Leah,27,Advertising,5'9",Texas,Caucasian,20,9
+Angela,25,Personal Assistant,5'7",Illinois,Caucasian,21,9
+Tiffany,25,Model,5'6",Missouri,Caucasian,22,9
+Christina,25,Teacher,5'6",Texas,Caucasian,23,9
+Courtney,26,Marketing,5'8",California,Caucasian,24,9
+Danielle,25,Medical Sales,5'7",Illinois,Caucasian,25,9
+Shanae,25,Teacher,5'7",Ohio,Caucasian,26,9
+Mandy,25,Advertising,5'6",Nevada,Caucasian,27,9
+Jen,26,Marketing,5'7",California,Caucasian,1,10
+Shayne,27,Actress,5'6",California,Caucasian,2,10
+Jennifer,24,Marketing,5'7",California,Caucasian,3,10
+Stephanie,26,Teacher,5'8",Illinois,Caucasian,4,10
+Sarah,26,Medical Sales,5'8",Ohio,Caucasian,5,10
+Lindsay,26,Real Estate,5'9",California,Caucasian,6,10
+Nicole,23,Medical Sales,5'7",Michigan,Caucasian,7,10
+Emily,24,Teacher,5'7",Texas,Caucasian,8,10
+Jesse,27,Photographer,5'8",California,Caucasian,9,10
+Dawn,25,Sales,5'6",California,Caucasian,10,10
+Aly,25,Marketing,5'6",California,Caucasian,11,10
+Jessica,26,Medical Sales,5'7",Ohio,Caucasian,12,10
+Claudia,25,Medical Sales,5'6",Florida,Caucasian,13,10
+Bevin,25,Publicist,5'7",Florida,Caucasian,14,10
+Amanda,23,Teacher,5'6",California,Caucasian,15,10
+Danielle,25,Advertising,5'7",Missouri,Caucasian,16,10
+Rachael,23,Advertising,5'7",Ohio,Caucasian,17,10
+Tara,24,Teacher,5'7",Nevada,Caucasian,18,10
+Lara,25,Model,5'8",Texas,Caucasian,19,10
+Megan,25,Real Estate,5'7",Illinois,Caucasian,20,10
+Keriann,26,Medical Sales,5'7",California,Caucasian,21,10
+Misty,25,Actress,5'6",California,Caucasian,22,10
+Christina,23,Student,5'5",California,Caucasian,23,10
+Jamie,27,Actress,5'6",Texas,Caucasian,24,10
+Ashley,23,Waitress,5'8",California,Caucasian,25,10
+Megan,23,Medical Sales,5'7",Louisiana,Caucasian,26,10
+Jennifer,25,Teacher,5'7",Ohio,Caucasian,1,11
+Shannon,26,Medical Sales,5'6",Michigan,Caucasian,2,11
+Tessa,26,Event Planner,5'6",California,Caucasian,3,11
+Bevin,23,Public Relations,5'7",Florida,Caucasian,4,11
+Lauren,25,Teacher,5'7",Illinois,Caucasian,5,11
+Erica,27,Medical Sales,5'7",California,Caucasian,6,11
+Krista,24,Real Estate,5'9",Texas,Caucasian,7,11
+Mandy,25,Medical Sales,5'6",Louisiana,Caucasian,8,11
+Nancy,26,Medical Sales,5'8",Texas,Caucasian,9,11
+Kristin,25,Real Estate,5'8",California,Caucasian,10,11
+Emily,23,Medical Sales,5'7",Florida,Caucasian,11,11
+Jessica,24,Teacher,5'7",Oregon,Caucasian,12,11
+Amanda,25,Marketing,5'7",Indiana,Caucasian,13,11
+Kelly,25,Medical Sales,5'7",California,Caucasian,14,11
+Katie,25,Teacher,5'7",Illinois,Caucasian,15,11
+Tara,27,Teacher,5'7",New Jersey,Caucasian,16,11
+Susan,26,Teacher,5'5",California,Caucasian,17,11
+Christina,24,Waitress,5'7",North Carolina,Caucasian,18,11
+Lindsay,25,Medical Sales,5'6",California,Caucasian,19,11
+Danielle,25,Medical Sales,5'6",Illinois,Caucasian,20,11
+Sarah,24,Student,5'7",Texas,Caucasian,21,11
+Jen,26,Medical Sales,5'7",Arizona,Caucasian,22,11
+Kirsten,25,Model,5'9",Ohio,Caucasian,23,11
+Rachael,23,Medical Sales,5'7",Texas,Caucasian,24,11
+Alison,24,Teacher,5'7",Massachusetts,Caucasian,1,12
+Amanda,25,Waitress,5'6",Florida,Caucasian,2,12
+Ashlee,25,Teacher,5'6",Texas,Caucasian,3,12
+Brittney,23,Waitress,5'6",Michigan,Caucasian,4,12
+Danielle,26,Medical Sales,5'7",Illinois,Caucasian,5,12
+Erica,25,Real Estate,5'7",California,Caucasian,6,12
+Heather,25,Medical Sales,5'8",California,Caucasian,7,12
+Jen,25,Medical Sales,5'6",California,Caucasian,8,12
+Jesse,26,Photographer,5'8",California,Caucasian,9,12
+Katherine,26,Marketing,5'7",Texas,Caucasian,10,12
+Kelly,27,Medical Sales,5'8",Georgia,Caucasian,11,12
+Lindsay,23,Medical Sales,5'7",California,Caucasian,12,12
+Megan,23,Medical Sales,5'7",Louisiana,Caucasian,13,12
+Nikki,26,Medical Sales,5'7",Florida,Caucasian,14,12
+Rachel,24,Public Relations,5'6",Texas,Caucasian,15,12
+Shannon,25,Teacher,5'7",California,Caucasian,16,12
+Stephanie,25,Teacher,5'6",Michigan,Caucasian,17,12
+Tara,27,Teacher,5'7",New Jersey,Caucasian,18,12
+Alli,25,Medical Sales,5'6",Minnesota,Caucasian,1,13
+Amber,25,Teacher,5'5",California,Caucasian,2,13
+Ashlee,25,Teacher,5'7",Florida,Caucasian,3,13
+Christina,26,Teacher,5'7",California,Caucasian,4,13
+Danielle,25,Medical Sales,5'7",North Carolina,Caucasian,5,13
+Erin,25,Waitress,5'8",Minnesota,Caucasian,6,13
+Jackie,26,Medical Sales,5'7",Illinois,Caucasian,7,13
+Jillian,29,Real Estate,5'6",Ontario,Caucasian,8,13
+Kari,29,Attorney,5'7",California,Caucasian,9,13
+Lauren,25,Teacher,5'8",California,Caucasian,10,13
+Megan,25,Teacher,5'6",Missouri,Caucasian,11,13
+Melissa,25,Dancer,5'5",Texas,Caucasian,0,13
+Naomi,25,Photographer,5'8",Texas,Caucasian,12,13
+Rachael,30,Model,5'8",California,Caucasian,13,13
+Tara,25,Teacher,5'6",Georgia,Caucasian,14,13
+Ty,25,Waitress,5'7",California,Caucasian,15,13
+Victoria,26,Waitress,5'7",California,Caucasian,16,13
+Ali,25,Marketing Executive,5'7",Massachusetts,Caucasian,4,14
+Ashley,25,Teacher,5'6",New Jersey,Caucasian,5,14
+Bethany,24,Flight Attendant,5'7",California,Caucasian,6,14
+Corrie,23,Marketing Executive,5'7",Florida,Caucasian,7,14
+Gia,26,Model,5'8",New York,Caucasian,8,14
+Holly,25,Event Planner,5'7",North Carolina,Caucasian,9,14
+Jaime,28,Interior Designer,5'5",California,Caucasian,10,14
+Jesse,24,Makeup Artist,5'8",California,Caucasian,11,14
+Jessie,24,Waitress,5'6",California,Caucasian,12,14
+Kara,25,Account Executive,5'9",Michigan,Caucasian,13,14
+Kathryn,25,Real Estate Agent,5'6",California,Caucasian,14,14
+Kirsten,24,Recruiter,5'6",Arizona,Caucasian,15,14
+Lacey,25,Waitress,5'7",California,Caucasian,16,14
+Vienna,23,Marketing Coordinator,5'5",Florida,Caucasian,0,14
+Tenley,25,Dancer,5'4",California,Caucasian,3,14
+Ali,25,Marketing Executive,5'7",Massachusetts,Caucasian,4,14
+Ashley,25,Teacher,5'6",New Jersey,Caucasian,5,14
+Bethany,24,Flight Attendant,5'7",California,Caucasian,6,14
+Corrie,23,Marketing Executive,5'7",Florida,Caucasian,7,14
+Gia,26,Model,5'8",New York,Caucasian,8,14
+Holly,25,Event Planner,5'7",North Carolina,Caucasian,9,14
+Jaime,28,Interior Designer,5'5",California,Caucasian,10,14
+Jesse,24,Makeup Artist,5'8",California,Caucasian,11,14
+Jessie,24,Waitress,5'6",California,Caucasian,12,14
+Kara,25,Account Executive,5'9",Michigan,Caucasian,13,14
+Kathryn,25,Real Estate Agent,5'6",California,Caucasian,14,14
+Kirsten,24,Recruiter,5'6",Arizona,Caucasian,15,14
+Lacey,25,Waitress,5'7",California,Caucasian,16,14
+Vienna,23,Marketing Coordinator,5'5",Florida,Caucasian,0,14
+Tenley,25,Dancer,5'4",California,Caucasian,3,14
+Tamaris,24,Flight Attendant,5'6",California,Caucasian,17,14
+Natalie,25,Waitress,5'7",California,Caucasian,18,14
+Rozlyn,28,Event Planner,5'8",Virginia,Caucasian,19,14
+Jessica,25,Marketing Executive,5'7",Texas,Caucasian,20,14
+Elizabeth,29,Event Planner,5'9",Utah,Caucasian,21,14
+Melissa,25,Journalist,5'5",Georgia,Caucasian,22,14
+Keltie,25,Dancer,5'6",California,Caucasian,23,14
+Megan,25,Teacher,5'7",California,Caucasian,24,14
+Elizabeth Kitt,26,Real Estate Agent,5'8",California,Caucasian,25,14
+Christina,25,Recruiter,5'5",California,Caucasian,26,14
+Ashley H.,24,Account Coordinator,5'6",California,Caucasian,4,15
+Ashley S.,25,Event Planner,5'7",California,Caucasian,5,15
+Brittney,24,Hair Stylist,5'5",California,Caucasian,6,15
+Chantal O.,28,Real Estate Agent,5'9",Washington,Caucasian,7,15
+Emily,24,Event Planner,5'6",North Carolina,Caucasian,0,15
+Jackie,25,Teacher,5'7",New Jersey,Caucasian,8,15
+Jenni,26,Waitress,5'6",California,Caucasian,9,15
+Jill,26,Account Manager,5'7",Indiana,Caucasian,10,15
+Madalyn,27,Executive Assistant,5'5",Georgia,Caucasian,11,15
+Michelle,30,Property Manager,5'5",California,Caucasian,12,15
+Mikki,25,Account Manager,5'6",Arizona,Caucasian,13,15
+Raichel,24,Student,5'6",Ohio,Caucasian,14,15
+Renee,30,Hair Stylist,5'7",California,Caucasian,15,15
+Shawntel N.,25,Funeral Director,5'5",California,Caucasian,16,15
+Shawntel O.,25,Funeral Director,5'5",California,Caucasian,17,15
+Sierra,24,Student,5'8",California,Caucasian,18,15
+Stacey,25,Teacher,5'7",Michigan,Caucasian,19,15
+Tammy,30,Real Estate Agent,5'8",New Jersey,Caucasian,20,15
+Tracy,30,Real Estate Agent,5'6",New Jersey,Caucasian,21,15
+Meghan,30,Hair Stylist,5'6",Michigan,Caucasian,22,15
+Ames,27,Investment Banker,5'11",California,Caucasian,23,15
+Brittany,26,Waitress,5'8",New Jersey,Caucasian,24,15
+Kaylee,24,Waitress,5'7",Texas,Caucasian,25,15
+Lindsay,24,Student,5'5",California,Caucasian,26,15
+Madison,25,Actress,5'6",Florida,Caucasian,27,15
+Amber,28,Waitress,5'7",California,Caucasian,4,16
+Blakeley,34,Executive Recruiter,5'7",Florida,Caucasian,5,16
+Casey S.,26,Social Worker,5'5",Texas,Caucasian,6,16
+Chelsea,25,Teacher,5'8",California,Caucasian,7,16
+Courtney,28,Model,5'9",California,Caucasian,0,16
+Erika,23,Teacher,5'6",Florida,Caucasian,8,16
+Jaime,26,Marketing Executive,5'5",California,Caucasian,9,16
+Jennifer,28,Publicist,5'6",California,Caucasian,10,16
+Kacie B.,25,Student,5'4",Tennessee,Caucasian,11,16
+Lindzi,27,Marketing Manager,5'5",Washington,Caucasian,12,16
+Monica,30,Real Estate Agent,5'6",California,Caucasian,13,16
+Nicki,26,Registered Nurse,5'7",Texas,Caucasian,14,16
+Rachel,27,Fashion Designer,5'6",California,Caucasian,15,16
+Rebecca,30,Recruiter,5'7",Texas,Caucasian,16,16
+Shawntel,25,Funeral Director,5'5",California,Caucasian,17,16
+Samantha,25,Waitress,5'5",California,Caucasian,18,16
+Sarah P.,30,Journalist,5'9",California,Caucasian,19,16
+Shayne,28,Reality TV Star,5'6",California,Caucasian,20,16
+Stacey,26,Teacher,5'5",Georgia,Caucasian,21,16
+Stephanie,29,Hair Stylist,5'6",Florida,Caucasian,22,16
+Tiffany,29,Real Estate Agent,5'7",New York,Caucasian,23,16
+Tory,27,Interior Designer,5'7",California,Caucasian,24,16
+Tracy,26,Teacher,5'8",Illinois,Caucasian,25,16
+Brittney,25,Waitress,5'7",Missouri,Caucasian,26,16
+Jamie,28,Marketing Consultant,5'6",California,Caucasian,27,16
+Amber,26,Waitress,5'7",California,Caucasian,4,17
+Angela,28,Executive Assistant,5'7",Texas,Caucasian,5,17
+Brittney,26,Waitress,5'8",Missouri,Caucasian,6,17
+Courtney,28,Model,5'9",California,Caucasian,0,17
+Erika,23,Teacher,5'6",Florida,Caucasian,7,17
+Heather,23,Student,5'5",California,Caucasian,8,17
+Jaime,26,Marketing Executive,5'5",California,Caucasian,9,17
+Jennifer,28,Publicist,5'6",California,Caucasian,10,17
+Kacie B.,25,Student,5'4",Tennessee,Caucasian,11,17
+Lindzi,27,Marketing Manager,5'5",Washington,Caucasian,12,17
+Monica,30,Real Estate Agent,5'6",California,Caucasian,13,17
+Nicki,26,Registered Nurse,5'7",Texas,Caucasian,14,17
+Rachel,27,Fashion Designer,5'6",California,Caucasian,15,17
+Rebecca,30,Recruiter,5'7",Texas,Caucasian,16,17
+Shawntel,25,Funeral Director,5'5",California,Caucasian,17,17
+Samantha,25,Waitress,5'5",California,Caucasian,18,17
+Sarah P.,30,Journalist,5'9",California,Caucasian,19,17
+Shayne,28,Reality TV Star,5'6",California,Caucasian,20,17
+Stacey,26,Teacher,5'5",Georgia,Caucasian,21,17
+Stephanie,29,Hair Stylist,5'6",Florida,Caucasian,22,17
+Tiffany,29,Real Estate Agent,5'7",New York,Caucasian,23,17
+Tory,27,Interior Designer,5'7",California,Caucasian,24,17
+Tracy,26,Teacher,5'8",Illinois,Caucasian,25,17
+Brittney,25,Waitress,5'7",Missouri,Caucasian,26,17
+Jamie,28,Marketing Consultant,5'6",California,Caucasian,27,17
+Andi Dorfman,26,Assistant District Attorney,5'4",Georgia,Caucasian,4,18
+Ashley P.,25,Intensive Care Unit Nurse,5'6",Missouri,Caucasian,5,18
+Cat,25,Wedding Planner,5'7",Mississippi,Caucasian,6,18
+Chantel,28,Executive Recruiter,5'8",California,Caucasian,7,18
+Clare Crawley,32,Hair Stylist,5'5",California,Caucasian,8,18
+Christy,24,Makeup Artist,5'6",South Carolina,Caucasian,9,18
+Danielle,25,Marketing Coordinator,5'5",Florida,Caucasian,10,18
+Elise,27,Social Worker,5'8",New Jersey,Caucasian,11,18
+Kelly,29,Radio Personality,5'5",Texas,Caucasian,12,18
+Kylie,25,Accountant,5'6",California,Caucasian,13,18
+Lacy,25,Promotions Manager,5'7",California,Caucasian,14,18
+Lauren H.,25,Elementary School Teacher,5'6",California,Caucasian,15,18
+Lucy,24,Free Spirit,5'4",California,Caucasian,16,18
+Nikki Ferrell,26,Nurse,5'6",Missouri,Caucasian,0,18
+Renee,32,Real Estate Agent,5'6",Florida,Caucasian,17,18
+Sharlene,29,Opera Singer,5'8",California,Caucasian,18,18
+Victoria,24,Waitress,5'5",Louisiana,Caucasian,19,18
+Valerie,26,Personal Trainer,5'7",Texas,Caucasian,20,18
+Amber,26,Waitress,5'7",California,Caucasian,21,18
+Chelsea,29,Personal Trainer,5'8",Oregon,Caucasian,22,18
+Cassandra,22,Former NBA Cheerleader,5'8",Michigan,Caucasian,23,18
+Jaclyn,27,Interior Designer,5'7",California,Caucasian,24,18
+Megan,25,Teacher,5'6",Michigan,Caucasian,25,18
+Marlena,27,Personal Trainer,5'7",Florida,Caucasian,26,18
+Tara,25,Waitress,5'5",Florida,Caucasian,27,18
+Victoria,26,Recruitment Consultant,5'6",California,Caucasian,28,18
+Amber,29,Pharmaceutical Sales,5'7",California,Caucasian,6,19
+Ashley I.,26,Journalist,5'7",Virginia,Caucasian,8,19
+Becca,25,Chiropractic Assistant,5'7",California,Caucasian,0,19
+Britt,27,Television Host,5'8",California,Caucasian,2,19
+Carly,29,Cruise Ship Singer,5'3",Michigan,Caucasian,7,19
+Jade,28,Model,5'7",Nebraska,Caucasian,9,19
+Juelia,30,Cosmetologist,5'5",Oregon,Caucasian,10,19
+Kelsey,28,School Counselor,5'6",Michigan,Caucasian,11,19
+Kimberly,28,School Teacher,5'6",California,Caucasian,12,19
+Kaitlyn,29,Dance Instructor,5'6",Canada,Caucasian,0,19
+Mackenzie,21,Dental Assistant,5'4",Oregon,Caucasian,13,19
+Megan,25,Makeup Artist,5'7",California,Caucasian,14,19
+Nikki,26,Nurse,5'6",Missouri,Caucasian,15,19
+Samantha,26,Interior Designer,5'7",New York,Caucasian,16,19
+Sarah,27,Recruiter,5'8",New Jersey,Caucasian,17,19
+Tara,25,Waitress,5'6",Florida,Caucasian,18,19
+Trina,33,Advertising Executive,5'7",California,Caucasian,19,19
+Amber,29,Pharmaceutical Sales,5'7",California,Caucasian,6,19
+Brittany,26,Law Student,5'6",California,Caucasian,20,19
+Christy,24,Medical Sales,5'5",California,Caucasian,21,19
+Jillian,28,Journalist,5'7",California,Caucasian,22,19
+Kelsey,28,School Counselor,5'6",Michigan,Caucasian,11,19
+Kylie,24,Medical Sales,5'5",California,Caucasian,23,19
+Lauren H.,29,Publicist,5'6",California,Caucasian,24,19
+Lauren B.,25,Teacher,5'6",California,Caucasian,0,19
+Nikki,26,Nurse,5'6",Missouri,Caucasian,15,19
+Rebecca,29,Real Estate Agent,5'7",New York,Caucasian,25,19
+Samantha,26,Interior Designer,5'7",New York,Caucasian,16,19
+Tara,25,Waitress,5'6",Florida,Caucasian,18,19
+Whitney,29,Recruiter,5'8",Illinois,Caucasian,0,19
+Amanda,25,Esthetician,5'3",California,Caucasian,4,20
+Annaliese,30,Teacher,5'5",California,Caucasian,5,20
+Becca,26,Chiropractic Assistant,5'7",California,Caucasian,0,20
+Caila,24,Software Sales,5'6",Massachusetts,Caucasian,6,20
+Emily,23,Twin,5'8",California,Caucasian,7,20
+Hannah,23,Interior Designer,5'7",California,Caucasian,8,20
+Jackie,23,Nanny,5'7",California,Caucasian,9,20
+Jami,23,Photographer,5'6",Florida,Caucasian,10,20
+Jojo,24,Real Estate Developer,5'5",Texas,Caucasian,0,20
+Jubilee,24,Army Veteran,5'6",Florida,African American,11,20
+Lauren B.,25,Teacher,5'6",California,Caucasian,0,20
+Lauren H.,25,Publicist,5'6",California,Caucasian,12,20
+Mandi,28,Dental Hygienist,5'5",California,Caucasian,13,20
+Olivia,23,News Anchor,5'9",Texas,Caucasian,14,20
+Shushanna,27,Banker,5'7",New York,Caucasian,15,20
+Samantha,26,Interior Designer,5'7",New York,Caucasian,16,20
+Sierra,26,Executive Recruiter,5'7",California,Caucasian,17,20
+Tierra,24,Medical Sales,5'5",Louisiana,Caucasian,18,20
+Emily (Twin),23,Waitress,5'8",California,Caucasian,19,20
+Haley (Twin),23,Waitress,5'8",California,Caucasian,19,20
+Jenna,27,Social Media Manager,5'7",California,Caucasian,20,20
+Rachel,23,Sales Manager,5'6",Texas,Caucasian,21,20
+Jackie,23,Nanny,5'7",California,Caucasian,22,20
+Leah,25,Recruiter,5'6",Michigan,Caucasian,23,20
+Tiara,26,Chicken Enthusiast,5'5",Texas,Caucasian,24,20
+Tia,23,Nurse,5'4",Arkansas,Caucasian,25,20
+Brittany,26,Waitress,5'6",California,Caucasian,26,20
+Kelsey,28,Teacher,5'7",Illinois,Caucasian,27,20
